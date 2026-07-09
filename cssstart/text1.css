@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    font-weight: 900;
+    font-weight: bolder;
+    text-decoration: red double overline;
+    letter-spacing: 2px;
+    font-family: Arial;
+    
+}
+
+h2{
+    text-align: right;
+    text-align: justify;
+    text-decoration:  dotted pink line-through;
+    line-height: 2.5;
+    letter-spacing: 2px;
+    font-size: 20px;
+ 
+}
+a{
+    text-decoration: none;
+    font-family: impact;
+}
