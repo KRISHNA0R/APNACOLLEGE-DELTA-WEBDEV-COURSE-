@@ -1,0 +1,53 @@
+*{
+    color: red ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: blue;
+}
+
+#login {
+     color: purple;
+}
+
+.up{
+    background-color: pink;
+}
+
+nav ul li{
+    background-color: pink;
+}
+
+p a {
+    color: purple;
+}
+
+p + h3 {
+    text-decoration: underline;
+}
+
+.up + button{
+    background-color: green;
+}
+
+input[type="text"]{
+    color: green;
+}
+
+
+input[type="password"]{
+    color: blue;
+}
+
+button:hover{
+    background-color: blue;
+}
+
+p:active{
+    font-weight: bold;
+}
+
+h1::first-line{
+    background-color: black;
+}
