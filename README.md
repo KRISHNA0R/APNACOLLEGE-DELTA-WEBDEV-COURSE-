@@ -30,7 +30,8 @@ HTML  ─────────────►  CSS
 • Tables & Layouts   • Transforms & Transitions
                       • Backgrounds & Shadows
                       • Opacity & Effects
-```
+                      • Flexbox & Layouts
+ ```
 
 ---
 
@@ -54,7 +55,8 @@ DELTA-WEBDEV-COURSE
 ├── 📁 cssstart/                  # CSS Learning Path
 │   ├── CSS PART 1 AND 2/         # Selectors, inheritance, text styling
 │   ├── css part 3/               # Display, positioning, relative
-│   └── CSS PART 4/               # Transforms, transitions, box-shadow, opacity
+│   ├── CSS PART 4/               # Transforms, transitions, box-shadow, opacity
+│   └── css part 5/               # Flexbox layout (flex.html, flex.css)
 │
 └── 📄 README.md
 ```
@@ -93,6 +95,11 @@ Visual polish: `transform`, `transition` (timing functions & delays), `box-shado
 
 **Folder:** [`cssstart/CSS PART 4`](cssstart/CSS%20PART%204)
 
+### 🔵 CSS — Part 5
+Layouts with **Flexbox**: `display: flex`, `justify-content`, `align-items`, flex directions, and wrapping — demonstrated in a hands-on flex demo.
+
+**Folder:** [`cssstart/css part 5`](cssstart/css%20part%205)
+
 ---
 
 ## 🛠️ How to Use
@@ -119,10 +126,10 @@ Visual polish: `transform`, `transition` (timing functions & delays), `box-shado
 
 | Metric | Count |
 |--------|-------|
-| Total Files | 84 |
-| Folders | 9 |
-| HTML Files | ~53 |
-| CSS Files | ~27 |
+| Total Files | 86 |
+| Folders | 10 |
+| HTML Files | ~54 |
+| CSS Files | ~28 |
 | Images | 2 |
 
 ---
