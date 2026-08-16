@@ -1,0 +1,16 @@
+#cont{
+    background-color: rgb(237, 227, 227);
+    height: 500px;   
+    width: 80%;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+#cont div{
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+
+}
